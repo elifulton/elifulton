@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Hello. My name is Eli Fulton. You killed my father. Prepare to die.
+
+Princess Bride references aside, I'm a data scientist (my current proficient language is Python), and I especially like:
+* exploring data to find new insights
+* deploying APIs
+* tuning models to meet accuracy levels
+
+You can drop me a line at my Twitter account (@eli__fulton), my LinkedIn (Eli Fulton), or just email me (eli@elifulton.com).
+
 <!--
 **elifulton/elifulton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
