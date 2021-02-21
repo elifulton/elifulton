@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hello. My name is Eli Fulton. You killed my father. Prepare to die.
+Hello. My name is Eli Fulton.
 
-Princess Bride references aside, I'm a data scientist (my current proficient language is Python), and I especially like:
+I'm a data scientist (my current proficient language is Python), and I especially like:
 * exploring data to find new insights
 * deploying APIs
 * tuning models to meet accuracy levels
