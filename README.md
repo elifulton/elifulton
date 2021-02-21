@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Hello. My name is Eli Fulton.
-
-I'm a data scientist (my current proficient language is Python), and I especially like:
+Hi! I'm a data scientist (my current proficient language is Python), and I especially like:
 * exploring data to find new insights
 * deploying APIs
 * tuning models to meet accuracy levels
